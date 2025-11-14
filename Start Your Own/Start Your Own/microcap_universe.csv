@@ -1,0 +1,5 @@
+ticker,name,region,market_cap_musd,active
+AAPL,Apple Inc,US,3000,0
+MSFT,Microsoft Corp,US,2800,0
+IMTX,Immatics N.V.,EU,250,1
+XYZ,Example Microcap AG,EU,120,1
